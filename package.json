@@ -1,6 +1,6 @@
 {
   "name": "ngx-intl-tel-input",
-  "version": "3.2.3",
+  "version": "3.2.4",
   "peerDependencies": {
     "@angular/common": "8.x - 13.x",
     "@angular/core": "8.x - 13.x",
@@ -58,5 +58,8 @@
   "sideEffects": false,
   "dependencies": {
     "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
   }
 }
